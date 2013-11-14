@@ -22,6 +22,6 @@
 
 ### Input file
 
-Tiene un formato nombre_equipo, estado. También puede ser solamente nombre_equipo.
-En el caso de que el estado sea OK lo saltea sin realizar ninguna acción.
-Caso contrario intenta ejecutar el copiado por samba y modifica el estado de acuerdo al resultado.
+* Tiene un formato nombre_equipo, estado. También puede ser solamente nombre_equipo.
+* En el caso de que el estado sea OK lo saltea sin realizar ninguna acción.
+* Caso contrario intenta ejecutar el copiado por samba y modifica el estado de acuerdo al resultado.
