@@ -1,5 +1,5 @@
 ### Estructura del directorio.
-
+~~~
 .
 ├── All Users
 │   └── Nombre Equipo.lnk
@@ -12,7 +12,7 @@
 └── samba_copy.sh
 
 2 directories, 7 files
-
+~~~
 ### Descripción.
 
 * All Users y Nombre Equipo son las carpetas o archivos a copiar. Esto se setea en las variables al comienzo del script.
